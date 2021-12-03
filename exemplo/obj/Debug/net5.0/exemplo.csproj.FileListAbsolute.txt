@@ -1,0 +1,16 @@
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\POO_Complemento\Modificadores_Delegates\exemplo\bin\Debug\net5.0\exemplo.exe
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\POO_Complemento\Modificadores_Delegates\exemplo\bin\Debug\net5.0\exemplo.deps.json
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\POO_Complemento\Modificadores_Delegates\exemplo\bin\Debug\net5.0\exemplo.runtimeconfig.json
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\POO_Complemento\Modificadores_Delegates\exemplo\bin\Debug\net5.0\exemplo.runtimeconfig.dev.json
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\POO_Complemento\Modificadores_Delegates\exemplo\bin\Debug\net5.0\exemplo.dll
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\POO_Complemento\Modificadores_Delegates\exemplo\bin\Debug\net5.0\ref\exemplo.dll
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\POO_Complemento\Modificadores_Delegates\exemplo\bin\Debug\net5.0\exemplo.pdb
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\POO_Complemento\Modificadores_Delegates\exemplo\obj\Debug\net5.0\exemplo.csproj.AssemblyReference.cache
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\POO_Complemento\Modificadores_Delegates\exemplo\obj\Debug\net5.0\exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\POO_Complemento\Modificadores_Delegates\exemplo\obj\Debug\net5.0\exemplo.AssemblyInfoInputs.cache
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\POO_Complemento\Modificadores_Delegates\exemplo\obj\Debug\net5.0\exemplo.AssemblyInfo.cs
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\POO_Complemento\Modificadores_Delegates\exemplo\obj\Debug\net5.0\exemplo.csproj.CoreCompileInputs.cache
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\POO_Complemento\Modificadores_Delegates\exemplo\obj\Debug\net5.0\exemplo.dll
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\POO_Complemento\Modificadores_Delegates\exemplo\obj\Debug\net5.0\ref\exemplo.dll
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\POO_Complemento\Modificadores_Delegates\exemplo\obj\Debug\net5.0\exemplo.pdb
+C:\Users\gilbe\Documents\PraticasDio\Pratica-C#\POO_Complemento\Modificadores_Delegates\exemplo\obj\Debug\net5.0\exemplo.genruntimeconfig.cache
